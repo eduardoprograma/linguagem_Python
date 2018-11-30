@@ -1,0 +1,1 @@
+'''Escreva um programa que solicite que o usuário insira dois números e imprima a soma, o produto, a diferença e o quociente dos dois números'''

@@ -1,0 +1,1 @@
+'''Escreva um programa que leia dois inteiros e determine e imprima se o primeiro é um múltiplo do segundo. (Dica: use o operador de módulo.)'''

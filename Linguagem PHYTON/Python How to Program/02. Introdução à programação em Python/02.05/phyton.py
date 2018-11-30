@@ -1,0 +1,1 @@
+'''Escreva um programa que leia no raio de um círculo e imprima o diâmetro, a circunferência e a área do círculo. Use o valor constante 3.14159 para π. Faça estes cálculos nas declarações de saída.'''
